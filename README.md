@@ -1,0 +1,2 @@
+# multiplateRequestUpdateViewDemo
+处理多个请求并发后刷新UI的问题
